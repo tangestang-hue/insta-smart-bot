@@ -11,8 +11,7 @@ database_id = "21f48cc2-8189-4b46-9b10-1c234f12941f"
 # ذخیره‌سازی توکن‌های دسترسی هر کاربر (امن‌تر از دیتابیس معمولی برای secretها)
 [[kv_namespaces]]
 binding = "TOKENS_KV"
-id = "TOKENS_KV"
-
+id = "557263d2e1134cd5bf80b9545be48c1a"
 # متغیرهای محیطی (بعدا با wrangler secret put ست می‌شن، اینجا فقط نام‌شون)
 # META_APP_SECRET
 # META_VERIFY_TOKEN
