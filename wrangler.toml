@@ -6,12 +6,12 @@ compatibility_date = "2024-09-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "insta_bot_db"
-database_id = "REPLACE_WITH_YOUR_D1_ID"
+database_id = "21f48cc2-8189-4b46-9b10-1c234f12941f"
 
 # ذخیره‌سازی توکن‌های دسترسی هر کاربر (امن‌تر از دیتابیس معمولی برای secretها)
 [[kv_namespaces]]
 binding = "TOKENS_KV"
-id = "REPLACE_WITH_YOUR_KV_ID"
+id = "TOKENS_KV"
 
 # متغیرهای محیطی (بعدا با wrangler secret put ست می‌شن، اینجا فقط نام‌شون)
 # META_APP_SECRET
